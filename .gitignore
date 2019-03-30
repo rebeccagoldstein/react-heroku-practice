@@ -1,6 +1,6 @@
 # Ignore these files
 package-lock.json
-/node_modules
+node_modules/
 npm-debug.log
 .DS_Store
 /*.env
